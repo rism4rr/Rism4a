@@ -1,0 +1,40 @@
+body {
+    font-family: Arial;
+    background-color: #e647cb;
+}
+
+h2 {
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    background-color: rgb(221, 175, 175);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+td {
+    padding: 5px;
+}
+
+input, select, textarea {
+    width: 100%;
+    padding: 5px;
+}
+
+input[type="radio"], input[type="checkbox"] {
+    width: auto;
+}
+
+button {
+    padding: 8px;
+    width: 100%;
+    background-color: green;
+    color: white;
+    border: none;
+}
+
+button:hover {
+    background-color: darkgreen;
+}
